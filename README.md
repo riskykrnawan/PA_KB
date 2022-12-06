@@ -1,6 +1,6 @@
 ## Image Recognition Serangga
 
-### A2_20_
+### A2'20-6
 
 #### Proyek ini bertujuan untuk membuat sebuah model yang dapat mengenali jenis dari serangga dengan menggunakan algoritma CNN (Convolutional neural network). 
 
@@ -24,7 +24,7 @@ Batasan:
     
 <br />
 
-#### Anggota Kelompok:
+#### Anggota Kelompok A2'20-6:
 
 | Nama | NIM | Tugas |
 |------|-----|-------|
