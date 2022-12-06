@@ -1,4 +1,4 @@
-## Image Recognition Serangga
+## Image Recognition Serangga Dengan Convolutional Neural Network
 
 ### A2'20-6
 
